@@ -1,0 +1,4 @@
+paramiko
+sqlite3-binary
+streamlit
+pyvis
