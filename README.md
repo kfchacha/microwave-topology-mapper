@@ -82,17 +82,9 @@ Watch discovery progress live.
 
 See a dynamic network topology map (fiber vs microwave color-coded).
 
-🧠 Future Enhancements
+---
 
-Auto-discovery using SNMP or API calls
-
-Integrate NetBox or Grafana for topology storage
-
-Export topology as JSON/GraphML
-
-Dockerize the entire app for portability
-
-##  Future Enhancements
+ ## Future Enhancements
 
 Auto-discovery using SNMP or API calls
 
@@ -105,6 +97,7 @@ Dockerize the entire app for portability
 
 ##Note that this only works for Nokia Routers, the commands used only work for them, but this could be modified to use other vendors commands. 
 
+---
 ## 🏽‍💻 Author
 
 Kenyatta Peter Chacha
